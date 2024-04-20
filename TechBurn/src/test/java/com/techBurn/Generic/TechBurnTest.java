@@ -7,4 +7,8 @@ public class TechBurnTest {
 public void mainTest() {
 	System.out.println("run");
 }
+@Test
+public void runTest() {
+	System.out.println("Abcd");
+}
 }
